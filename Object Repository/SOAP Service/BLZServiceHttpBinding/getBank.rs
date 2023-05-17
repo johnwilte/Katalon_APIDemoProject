@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebServiceRequestEntity>
+   <description></description>
+   <name>getBank</name>
+   <tag></tag>
+   <elementGuidId>ea1956d1-9ad9-4543-887f-67581142cfa6</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <autoUpdateContent>true</autoUpdateContent>
+   <connectionTimeout>-1</connectionTimeout>
+   <followRedirects>false</followRedirects>
+   <httpBody></httpBody>
+   <httpBodyContent></httpBodyContent>
+   <httpBodyType></httpBodyType>
+   <httpHeaderProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>Content-Type</name>
+      <type>Main</type>
+      <value>text/xml; charset=utf-8</value>
+      <webElementGuid>e8fe6429-3f95-4bc8-aeab-7c6db59465bc</webElementGuid>
+   </httpHeaderProperties>
+   <katalonVersion>8.6.0</katalonVersion>
+   <maxResponseSize>-1</maxResponseSize>
+   <restRequestMethod></restRequestMethod>
+   <restUrl></restUrl>
+   <serviceType>SOAP</serviceType>
+   <soapBody></soapBody>
+   <soapHeader></soapHeader>
+   <soapRequestMethod>POST</soapRequestMethod>
+   <soapServiceEndpoint>http://thomas-bayer.com/axis2/services/BLZService</soapServiceEndpoint>
+   <soapServiceFunction>getBank</soapServiceFunction>
+   <socketTimeout>-1</socketTimeout>
+   <useServiceInfoFromWsdl>false</useServiceInfoFromWsdl>
+   <wsdlAddress>http://thomas-bayer.com/axis2/services/BLZService?wsdl</wsdlAddress>
+</WebServiceRequestEntity>
